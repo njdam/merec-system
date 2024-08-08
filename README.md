@@ -2,14 +2,18 @@
 
 ## Project Pitch
 
+[View the Google Slides presentation](https://docs.google.com/presentation/d/1GeLxS2Vfk7s-rfQg5BZwmAa7598IFwAhgDJUZYj7aTU/edit?usp=sharing)
+
+Watch Pitch Video [![Merec System Webstack - Portfolio Project - Pitch](https://img.youtube.com/vi/MwmCaMgZG_o/0.jpg)](https://youtu.be/MwmCaMgZG_o?si=fqDKFiTXT4xScK1e)
+
 ### Name of the Project
 **Medical Electronic Record System (MERS)**
 
 ### List of Team Members
+- Harvey Kisiangani
+- Emmanuel Ukah
+- Leon Noel Irumva
 - Jean Damascene NGABOYIMANA
-- Member 2
-- Member 3
-- Member 4
 
 ### Description of the Project
 **Objective:** To create a comprehensive Medical Electronic Record System (MERS) that will enable healthcare providers to efficiently manage patient information, improve data accuracy, and enhance patient care.
@@ -72,6 +76,8 @@ Include visual representations of the key user interfaces (e.g., patient registr
 
 ### Video Recording
 A video recording of one or more team members presenting the pitch using the Google Slide presentation will be attached.
+
+[![Watch the video](https://img.youtube.com/vi/MwmCaMgZG_o/0.jpg)](https://youtu.be/MwmCaMgZG_o?si=fqDKFiTXT4xScK1e)
 
 ---
 
