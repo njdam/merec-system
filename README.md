@@ -27,6 +27,46 @@ Watch Pitch Video [![Merec System Webstack - Portfolio Project - Pitch](https://
 - Billing and Invoicing
 - Reporting and Analytics
 
+**Project Structure**
+```css
+MERS/
+├── backend/
+│   ├── config/
+│   │   └── db.js
+│   ├── controllers/
+│   │   ├── authController.js
+│   │   ├── patientController.js
+│   │   └── appointmentController.js
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Patient.js
+│   │   ├── Appointment.js
+│   │   └── MedicalHistory.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   ├── patient.js
+│   │   └── appointment.js
+│   ├── middleware/
+│   │   ├── auth.js
+│   └── app.js
+│   └── server.js
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Header.js
+│   │   │   ├── Footer.js
+│   │   │   ├── PatientRegistration.js
+│   │   │   ├── AppointmentScheduler.js
+│   │   │   ├── MedicalHistory.js
+│   │   ├── App.js
+│   │   └── index.js
+│   └── package.json
+├── .env
+├── Dockerfile
+└── docker-compose.yml
+```
+
 ### Learning Objectives
 **Technical Skills:**
 - Full-stack development using modern frameworks
